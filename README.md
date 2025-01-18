@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @HatemSaqr
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning C++
-- 📫 twitter https://twitter.com/tc6lejjRvivw2hW
+- 👀 Software engineer
+- 🌱 I’m currently learning PHP
